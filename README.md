@@ -70,7 +70,9 @@ Here are some relevant code snippets for reference:
 
 ```
 
+**script.js** (Example Logic)
 
+```javascript
 // Get references to DOM elements
 let input = document.getElementById('input');
 let btn = document.getElementById('btn');
@@ -88,7 +90,19 @@ btn.addEventListener("click", () => {
   // Handle guess logic here
 });
 
+```
+***style.css***(Example style)
 
+```CSS
+body {
+  /* Styles for the body element */
+}
+
+.container {
+  /* Styles for the container element */
+}
+
+/* Add styles for other elements as needed */
 
 
 
