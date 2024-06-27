@@ -33,25 +33,19 @@ A simple guessing game where users try to guess a random number between 1 and 10
 
 We encourage contributions to this project! Feel free to fork the repository and submit pull requests with your improvements.
 
-## License
 
-[Specify the license used for your project. You can find resources to choose a license on websites like choosealicense.com]
 
 ## Author
 
-* [Your Name] ([Your GitHub Profile URL])
+* [Ritesh Gaikwad] ([https://github.com/Riteshgaikwad])
 
-## Acknowledgments
 
-* [List any resources or people you'd like to acknowledge (optional)]
 
 ## Demo
 
-[You can optionally include a link to a live demo of your guessing game (optional)]
+[https://riteshgaikwad.github.io/Guessing-Game/]
 
-## Additional Notes
 
-* Feel free to add more sections or customize the content to better suit your project.
 
 ## Code Snippets
 
@@ -72,9 +66,12 @@ Here are some relevant code snippets for reference:
   <script src="script.js"></script>
 </body>
 </html>
-script.js (Example Logic)
 
-JavaScript
+
+**script.js** (Example Logic)
+
+
+```JavaScript
 // Get references to DOM elements
 let input = document.getElementById('input');
 let btn = document.getElementById('btn');
@@ -95,7 +92,7 @@ Use code with caution.
 content_copy
 style.css (Example Styles)
 
-CSS
+***CSS***
 body {
   /* Styles for the body element */
 }
