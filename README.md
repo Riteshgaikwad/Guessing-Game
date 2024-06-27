@@ -68,10 +68,9 @@ Here are some relevant code snippets for reference:
 </html>
 
 
-**script.js** (Example Logic)
+```
 
 
-```JavaScript
 // Get references to DOM elements
 let input = document.getElementById('input');
 let btn = document.getElementById('btn');
@@ -88,17 +87,8 @@ let numGuesses = 0;
 btn.addEventListener("click", () => {
   // Handle guess logic here
 });
-Use code with caution.
-content_copy
-style.css (Example Styles)
 
-***CSS***
-body {
-  /* Styles for the body element */
-}
 
-.container {
-  /* Styles for the container element */
-}
 
-/* Add styles for other elements as needed */
+
+
